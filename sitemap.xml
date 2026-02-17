@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mneyret.github.io/Site-EquitES/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mneyret.github.io/Site-EquitES/</loc>
+</url>
+<url>
+<loc>https://mneyret.github.io/Site-EquitES/apercu-des-resultats-de-lenquete.html</loc>
+<lastmod>2026-02-17T09:51:19+01:00</lastmod>
+<image:image>
+<image:loc>https://mneyret.github.io/Site-EquitES/media/posts/4/918D808A-538E-4960-BA26-09824F7EFE4F_1_102_o.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mneyret.github.io/Site-EquitES/disparities-in-urban-ncp-in-the-grenoble-metropolis.html</loc>
+<lastmod>2026-02-17T09:53:44+01:00</lastmod>
+<image:image>
+<image:loc>https://mneyret.github.io/Site-EquitES/media/posts/3/76AB25A9-BE1C-4371-8EEF-D8DF41BBAAEC_1_102_a.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mneyret.github.io/Site-EquitES/equites-pour-des-contributions-equitables-de-la-nature-a-la-societe-2.html</loc>
+<lastmod>2026-02-17T09:54:03+01:00</lastmod>
+<image:image>
+<image:loc>https://mneyret.github.io/Site-EquitES/media/posts/2/7EDCF7B5-3465-45C0-8237-76F17857219B_1_102_o.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mneyret.github.io/Site-EquitES/equites-pour-des-contributions-equitables-de-la-nature-a-la-societe.html</loc>
+<lastmod>2026-02-17T09:48:31+01:00</lastmod>
+<image:image>
+<image:loc>https://mneyret.github.io/Site-EquitES/media/posts/1/D269F00D-45D3-43D0-BE1E-8B1241D88C0D_1_102_o.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
