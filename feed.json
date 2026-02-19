@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "EquitES - Pour des contributions équitables de la nature à la société",
+    "title": "EquitES - Vers des contributions équitables de la nature à l’homme face au changement climatique",
     "description": "",
     "home_page_url": "https://mneyret.github.io/Site-EquitES",
     "feed_url": "https://mneyret.github.io/Site-EquitES/feed.json",
@@ -20,9 +20,11 @@
                 "name": "Margot Neyret"
             },
             "tags": [
+                   "d",
+                   "c"
             ],
             "date_published": "2026-02-17T10:57:07+01:00",
-            "date_modified": "2026-02-17T13:39:41+01:00"
+            "date_modified": "2026-02-19T11:58:51+01:00"
         },
         {
             "id": "https://mneyret.github.io/Site-EquitES/apercu-des-resultats-de-lenquete.html",
@@ -35,9 +37,11 @@
                 "name": "Margot Neyret"
             },
             "tags": [
+                   "c",
+                   "b"
             ],
             "date_published": "2026-02-17T09:13:59+01:00",
-            "date_modified": "2026-02-17T14:02:38+01:00"
+            "date_modified": "2026-02-19T11:59:40+01:00"
         },
         {
             "id": "https://mneyret.github.io/Site-EquitES/disparities-in-urban-ncp-in-the-grenoble-metropolis.html",
@@ -50,24 +54,27 @@
                 "name": "Margot Neyret"
             },
             "tags": [
+                   "b",
+                   "a"
             ],
             "date_published": "2026-02-17T09:11:29+01:00",
-            "date_modified": "2026-02-17T13:37:54+01:00"
+            "date_modified": "2026-02-19T12:00:01+01:00"
         },
         {
             "id": "https://mneyret.github.io/Site-EquitES/equites-pour-des-contributions-equitables-de-la-nature-a-la-societe.html",
             "url": "https://mneyret.github.io/Site-EquitES/equites-pour-des-contributions-equitables-de-la-nature-a-la-societe.html",
             "title": "Présentation du projet",
             "summary": "Les écosystèmes et la biodiversité contribuent à notre société de multiples façons — de la production de nourriture et de bois à la régulation de la qualité de l’air et de l’eau, en passant par les possibilités de loisirs de plein air et la valeur&hellip;",
-            "content_html": "<p>Les écosystèmes et la biodiversité contribuent à notre société de multiples façons — de la production de nourriture et de bois à la régulation de la qualité de l’air et de l’eau, en passant par les possibilités de loisirs de plein air et la valeur culturelle des espèces et des paysages. Ces bénéfices, également appelés services écosystémiques ou contributions de la nature aux personnes (NCP), sont fondamentaux pour le bien-être humain.<br><br>Cependant, l’accès à ces contributions et la capacité d’en bénéficier varient selon les individus en fonction de leur lieu de résidence, de leurs préférences personnelles et de leur mobilité. Il en résulte des disparités importantes entre les groupes sociaux, notamment en fonction de l’âge, du genre et du revenu.<br><br> Le changement climatique aggrave encore ces défis, en menaçant la gestion et la conservation des écosystèmes et en modifiant leur capacité à fournir des bénéfices à la société. Par exemple, l’augmentation de la fréquence des sécheresses et des vagues de chaleur peut entraîner une baisse de la production alimentaire et fourragère dans de nombreuses régions européennes. Pourtant, les effets de ces changements sur les contributions de la nature aux différentes populations — et leur répartition entre les groupes sociaux — restent largement incertains.<br><br>Le projet EquitES vise à mieux comprendre comment le changement climatique affecte les contributions de la nature aux personnes au sein de différents groupes sociaux.<br><br>Plus précisément, nos objectifs sont de :<br><br>        • Identifier les principaux facteurs sociodémographiques à l’origine des inégalités d’accès à la nature et des bénéfices qui en sont tirés, et évaluer leur impact sur la qualité de vie ;<br>        • Évaluer comment différents scénarios de changement climatique peuvent influencer ces inégalités ;<br>        • Développer des solutions fondées sur la nature permettant d’atténuer ces impacts tout en préservant la biodiversité.</p>\n<p><br>La zone d’étude couvre l'agglomération Grenobloise et les vallées adjacentes (une partie de la Bièvre, Grésivaudan, Trièves, Matheysine...) ainsi qu'une partie des massifs voisins.</p>",
+            "content_html": "<p>Les écosystèmes et la biodiversité contribuent à notre société de multiples façons — de la production de nourriture et de bois à la régulation de la qualité de l’air et de l’eau, en passant par les possibilités de loisirs de plein air et la valeur culturelle des espèces et des paysages. Ces bénéfices, également appelés services écosystémiques ou contributions de la nature aux personnes (NCP), sont fondamentaux pour le bien-être humain.<br><br>Cependant, l’accès à ces contributions et la capacité d’en bénéficier varient selon les individus, par exemple selon leur lieu de résidence, leurs préférences personnelles et  leur mobilité physique. Il en résulte des disparités importantes entre les groupes sociaux, notamment en fonction de l’âge, du genre ou des revenus.<br><br> Le changement climatique aggrave encore ces défis, en menaçant la gestion et la conservation des écosystèmes et en modifiant leur capacité à fournir des bénéfices à la société. Par exemple, l’augmentation de la fréquence des sécheresses et des vagues de chaleur peut entraîner une baisse de la production alimentaire et fourragère dans de nombreuses régions européennes. Pourtant, les effets de ces changements sur les contributions de la nature aux différentes populations - et leur répartition entre les groupes sociaux - restent largement incertains.<br><br>Dans ce cadre, le projet EquitES vise à mieux comprendre les principaux facteurs à l’origine des inégalités d’accès à la nature et des bénéfices qui en sont tirés, et évaluer leur impact sur la qualité de vie.</p>\n<p>La zone d’étude couvre l'agglomération Grenobloise et les vallées adjacentes (une partie de la Bièvre, Grésivaudan, Trièves, Matheysine...) ainsi qu'une partie des massifs environnants.</p>",
             "image": "https://mneyret.github.io/Site-EquitES/media/posts/1/D269F00D-45D3-43D0-BE1E-8B1241D88C0D_1_102_o.jpeg",
             "author": {
                 "name": "Margot Neyret"
             },
             "tags": [
+                   "a"
             ],
             "date_published": "2026-02-17T09:09:10+01:00",
-            "date_modified": "2026-02-17T10:57:53+01:00"
+            "date_modified": "2026-02-19T12:00:26+01:00"
         }
     ]
 }
